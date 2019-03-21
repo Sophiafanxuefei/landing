@@ -1,0 +1,15 @@
+.cards-container{
+  width:950px;
+  margin:0 auto;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.white-card{
+  margin:30px;
+}
+
+.white-card img{
+  width:290px;
+}
